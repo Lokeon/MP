@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1492197191 source:c:\users\user\desktop\thework2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"volcado.h"
+	"profesor.h"
+
+1492174985 c:\users\user\desktop\thework2\volcado.h
+
+1492193355 source:c:\users\user\desktop\thework2\volcado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"volcado.h"
+
+1492197339 c:\users\user\desktop\thework2\profesor.h
+

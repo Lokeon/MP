@@ -1,0 +1,17 @@
+0001-Matematicas aplicadas a Ciencias Sociales-MCS
+0002-Historia del arte-HAR
+0003-Conocimiento del medio-CDM
+0004-Lengua Castellana y Literatura-LCL
+0005-Ingles-ING
+0006-Fisica-FIS
+0007-Quimica-QUI
+0008-Educacion Fisica-EFI
+0009-Naturales-NAT
+0010-Geografia-GEO
+0011-Biologia-BIO
+0012-Matematicas-MAT
+0013-Frances-FRA
+0014-Filosofia-FIL
+0015-Religion-REL
+0016-Informatica-INF
+0017-Estadistica-EST

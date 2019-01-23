@@ -1,0 +1,9 @@
+001-Juan Sanchez-administrador-admi1-jsabcdef
+002-Guillermo Barcena-profesor-prof2-gb123456
+003-Quico Benitez-profesor-prof3-qb123456
+004-Javier Perez-administrador-admi4-jpabcdef
+005-Purificacion Peralta-profesor-prof5-pp123456
+006-Eduardo Barba-administrador-admi6-ebabcdef
+007-Rocio Morillo-profesor-prof7-rm123456
+008-Antonio Sala-profesor-prof8-as123456
+009-Antonio Gutierrez-administrador-admi9-agabcdef
